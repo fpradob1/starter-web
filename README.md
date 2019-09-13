@@ -8,6 +8,8 @@ Intro here
 
 ## Deployment
 
+Deployment instructions here
+
 ## Purpose
 
 Sample website with plenty of files for demos
