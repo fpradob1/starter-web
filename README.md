@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Intro here!
+Intro here 
 
 ## Deployment
 
@@ -12,7 +12,7 @@ Deployment instructions here!
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demo
 
 ## How to contribute
 
