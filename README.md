@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Intro here! Apetecawn the grijander
+Intro here!
 
 ## Deployment
 
@@ -19,4 +19,4 @@ Sample website with plenty of files for demos
 Contrib here
 
 ### Copyright
-fpb
+fpb - 2019
