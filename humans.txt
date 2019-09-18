@@ -3,7 +3,7 @@
 
 # TEAM
 
-    fer -- developer -- none
+    fer pb -- developer -- none
 
 # THANKS
 
